@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Arduino Store</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Arduino Store</h1>
+    <p>Your source for original Arduino boards & electronics</p>
+</header>
+
+<nav>
+    <a href="#products">Products</a>
+    <a href="#about">About</a>
+    <a href="#contact">Contact</a>
+</nav>
+
+<section id="products">
+    <h2>Our Products</h2>
+
+    <div class="product">
+        <h3>Arduino UNO R3</h3>
+        <p>Perfect for beginners and prototyping projects.</p>
+        <span class="price">350 MAD</span>
+    </div>
+
+    <div class="product">
+        <h3>Arduino Mega 2560</h3>
+        <p>Ideal for large projects with many inputs/outputs.</p>
+        <span class="price">520 MAD</span>
+    </div>
+
+    <div class="product">
+        <h3>Arduino Nano</h3>
+        <p>Compact board for embedded applications.</p>
+        <span class="price">180 MAD</span>
+    </div>
+</section>
+
+<section id="about">
+    <h2>About Us</h2>
+    <p>
+        We specialize in Arduino boards, sensors, and electronic components
+        for students, makers, and professionals.
+    </p>
+</section>
+
+<section id="contact">
+    <h2>Contact & Orders</h2>
+    <p>📞 Phone / WhatsApp: +212 6 00 00 00 00</p>
+    <p>📧 Email: sales@arduinostore.ma</p>
+</section>
+
+<footer>
+    <p>© 2025 Arduino Store – All rights reserved</p>
+</footer>
+
+</body>
+</html>
